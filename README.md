@@ -1,7 +1,9 @@
 # Large-Data-Related-Questions
 
-Given a text file of size say 100GB? Task is to find first non repeating word in this file?
-constraints: You can traverse the file only once.
+**Given a text file of size say 100GB? Task is to find first non repeating word in this file?
+constraints: You can traverse the file only once.**
+
+**Approach - 1:**
 
 1. Read the file in chunks (either by number of rows OR bytes)
 
