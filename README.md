@@ -22,3 +22,7 @@ once done reading the entire file, return head from doubly linkedlist.
 Time complexity:
 Adding/Deleting/Searching in Hashmap - Expected O(1)
 Adding/Deleting a node from Doubly linked list - O(1) because a link to the node is stored in the hashmap so no need to search the DLL for deleting that node O(w) where w is the total number of words in the file
+
+**Paxos Algorithm**
+http://www.beyondthelines.net/algorithm/basic-paxos/#more-351
+http://www.beyondthelines.net/algorithm/multi-paxos/#more-374
