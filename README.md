@@ -25,5 +25,5 @@ Adding/Deleting a node from Doubly linked list - O(1) because a link to the node
 
 **Paxos Algorithm**
 
-http://www.beyondthelines.net/algorithm/basic-paxos/#more-351
-http://www.beyondthelines.net/algorithm/multi-paxos/#more-374
+1. http://www.beyondthelines.net/algorithm/basic-paxos/#more-351
+2. http://www.beyondthelines.net/algorithm/multi-paxos/#more-374
