@@ -27,3 +27,11 @@ Adding/Deleting a node from Doubly linked list - O(1) because a link to the node
 
 1. http://www.beyondthelines.net/algorithm/basic-paxos/#more-351
 2. http://www.beyondthelines.net/algorithm/multi-paxos/#more-374
+
+**Bloom Filter Use cases and References**
+1. Sign Up -> Checking whether Username already exists or not
+2. One Hit wonders -> Akamai & Facebook uses bloom filters to avoid caching the items that are very rarely searched or searched only once
+3. https://medium.com/datadriveninvestor/bloom-filter-a-simple-but-interesting-data-structure-37fd53b11606
+4. http://softwareas.com/bloom-filters-and-recommendation-engines/
+5. https://www.quora.com/What-are-the-best-applications-of-Bloom-filters
+6. https://cs.unc.edu/~fabian/courses/CS600.624/slides/bloomslides.pdf
