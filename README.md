@@ -49,3 +49,6 @@ https://www.youtube.com/watch?v=F7EhDBfsTA8&t=589s
 
 **HyperLogLog Use cases and References**
 1. https://towardsdatascience.com/big-data-with-sketchy-structures-part-2-hyperloglog-and-bloom-filters-73b1c4a2e6ad
+
+**Top k frequent item algorithm**
+https://zpjiang.me/2017/11/13/top-k-elementes-system-design/
